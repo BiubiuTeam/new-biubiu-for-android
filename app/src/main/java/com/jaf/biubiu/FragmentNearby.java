@@ -26,6 +26,7 @@ import java.util.ArrayList;
 /**
  * Created by jarrah on 2015/4/14.
  */
+//vidatest
 public class FragmentNearby extends BindableFragment implements Constant {
 
     private static final String TAG = "FragmentNearby";
